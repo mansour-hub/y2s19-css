@@ -1,1 +1,14 @@
-
+body {
+	background-color: lightblue;
+	color:white;
+	font-family: new times roman:;
+	font-size:14;
+}
+a {
+	color:black;
+}
+.vegetrian {color :yellow;
+}
+.non-vegetrian{color : red ;
+}
+#best{background-color: brown;}
